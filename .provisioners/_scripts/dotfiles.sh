@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-repo="jcaamano/dotfiles.git"
+repo="kyrtapz/dotfiles.git"
 repo_https="https://github.com/$repo"
 repo_git="git@github.com:$repo"
 
